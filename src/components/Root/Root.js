@@ -28,7 +28,7 @@ const Wrapper = styled.div`
 `;
 
 const Root = () => {
-  const [initialised, setInitialised] = useState(false);
+  const [initialised, setInitialised] = useState(true);
 
   useEffect(() => {
     //  .then(({ data }) => {

@@ -22,17 +22,36 @@ const Title = styled.strong`
 const Listings = () => {
   // const { data, loading, refetch } = useQuery(query);
 
-  const data = {};
+  const data = [
+    {
+      id: 0,
+      title: "Canada",
+      links: ["https://aaoun.com", "https://google.com"]
+    },
+    { id: 1, title: "USA", links: ["https://aaoun.com", "https://google.com"] },
+    {
+      id: 2,
+      title: "China",
+      links: ["https://aaoun.com", "https://google.com"]
+    }
+  ];
   // if (loading) return "Loading...";
 
   return (
     <div>
       <h1>Listings</h1>
       <div>
-        {data.listings.map(listing => (
-          <Listing key={listing.id}>
-            <Title>{listing.title}</Title>
-            <Description>{listing.description}</Description>
+        {data.map(country => (
+          <Listing key={country.id}>
+            <Title>{country.title}</Title>
+            <Description>
+              {country.links.map(link => (
+                <span key={link}>
+                  {link}
+                  <br></br>
+                </span>
+              ))}
+            </Description>
           </Listing>
         ))}
       </div>
