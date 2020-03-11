@@ -46,10 +46,10 @@ const Listings = () => {
             <Title>{country.title}</Title>
             <Description>
               {country.links.map(link => (
-                <span key={link}>
+                <a key={link}>
                   {link}
                   <br></br>
-                </span>
+                </a>
               ))}
             </Description>
           </Listing>
