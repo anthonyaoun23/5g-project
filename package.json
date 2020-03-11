@@ -1,0 +1,32 @@
+{
+  "name": "5g-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyaoun23/5g-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyaoun23/5g-project/issues"
+  },
+  "homepage": "https://github.com/anthonyaoun23/5g-project#readme",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "styled-components": "^5.0.1"
+  },
+  "alias": {
+    "#components": "./src/components",
+    "#root": "./src"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
