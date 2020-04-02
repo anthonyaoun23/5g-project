@@ -2,10 +2,7 @@
   "scripts": {
     "build": "webpack --config=webpack.config.prod.js",
     "build-dev": "webpack --config=webpack.config.dev.js",
-    "start": "webpack-dev-server --config=webpack.config.dev.js --open",
-    "start2": "webpack-dev-server --progress --hot --open",
-    "start-local": "webpack-dev-server --env.local --progress --hot --open",
-    "build2": "webpack webpack.config.prod.js"
+    "start": "webpack-dev-server --config=webpack.config.dev.js --open"
   },
   "dependencies": {
     "react": "^16.3.0",
