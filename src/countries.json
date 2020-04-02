@@ -1,0 +1,242 @@
+[
+  {
+    "country": "Canada",
+    "image": "https://www.countryflags.io/ca/flat/64.png",
+    "latitude": 56.81718953560039,
+    "longitude": -106.2435372949185,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  },
+  {
+    "country": "United States",
+    "image": "https://www.countryflags.io/us/flat/64.png",
+    "latitude": 39.05660576091833,
+    "longitude": -98.35183134160525,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  },
+  {
+    "country": "South Korea",
+    "image": "https://www.countryflags.io/kr/flat/64.png",
+    "latitude": 36.394328721214904,
+    "longitude": 128.19711403279985,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "image": "https://www.countryflags.io/gb/flat/64.png",
+    "latitude": 53.821851274560856,
+    "longitude": -2.020494641432606,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "image": "https://www.countryflags.io/de/flat/64.png",
+    "latitude": 51.01749662802419,
+    "longitude": 9.965394927864168,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "image": "https://www.countryflags.io/ch/flat/64.png",
+    "latitude": 46.78290993765353,
+    "longitude": 8.244468271419464,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "image": "https://www.countryflags.io/cn/flat/64.png",
+    "latitude": 34.70413337975994,
+    "longitude": 103.12129870289812,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "image": "https://www.countryflags.io/jp/flat/64.png",
+    "latitude": 35.721262184134005,
+    "longitude": 138.44143843005884,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "image": "https://www.countryflags.io/fr/flat/64.png",
+    "latitude": 47.50012463300973,
+    "longitude": 2.6237044115594017,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  },
+  {
+    "country": "Russia",
+    "image": "https://www.countryflags.io/ru/flat/64.png",
+    "latitude": 63.21350279040715,
+    "longitude": 96.53845827512885,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "image": "https://www.countryflags.io/br/flat/64.png",
+    "latitude": -11.447064154115168,
+    "longitude": -53.02668878617817,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  },
+  {
+    "country": "Australia",
+    "image": "https://www.countryflags.io/au/flat/64.png",
+    "latitude": -24.454562794160708,
+    "longitude": 135.0216597828171,
+    "links": [
+      {
+        "title": "What is 5G?",
+        "url": "https://www.ic.gc.ca/eic/site/069.nsf/eng/00077.html"
+      },
+      {
+        "title": "Lightning fast but a political minefield: the trouble with 5G in Canada",
+        "url": "https://www.ctvnews.ca/sci-tech/lightning-fast-but-a-political-minefield-the-trouble-with-5g-in-canada-1.4713396"
+      },
+      {
+        "title": "Government of Canada invests in research and development for technologies behind 5G networks",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2019/01/government-of-canada-invests-in-research-and-development-for-technologies-behind-5g-networks.html"
+      }
+    ]
+  }
+]

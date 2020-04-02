@@ -1,33 +1,22 @@
 {
-  "name": "5g-project",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "watch": "parcel --port=7001 src/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --progress --hot --open",
+    "start-local": "webpack-dev-server --env.local --progress --hot --open "
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anthonyaoun23/5g-project.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/anthonyaoun23/5g-project/issues"
-  },
-  "homepage": "https://github.com/anthonyaoun23/5g-project#readme",
   "dependencies": {
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "styled-components": "^5.0.1"
-  },
-  "alias": {
-    "#components": "./src/components",
-    "#root": "./src"
+    "dotenv": "^8.2.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-map-gl": "^5.2.0"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.0",
+    "webpack": "^4.20.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.0"
   }
 }

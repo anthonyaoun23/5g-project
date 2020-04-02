@@ -1,1 +1,1 @@
-# 5g-project
+# 5G Project
