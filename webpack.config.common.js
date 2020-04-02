@@ -2,7 +2,6 @@ const path = require("path");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const webpack = require("webpack");
-const CompressionPlugin = require("compression-webpack-plugin");
 
 require("dotenv").config();
 
@@ -11,16 +10,12 @@ const BABEL_CONFIG = {
   plugins: ["@babel/proposal-class-properties"]
 };
 
-const config = {
-  mode: "development",
-
+module.exports = {
   entry: "./src/app.js",
-
   output: {
-    filename: "[name].[hash].js", // this line is the only difference
+    filename: "[name].[contenthash].js", // this line is the only difference
     path: path.resolve(__dirname, "dist")
   },
-
   plugins: [
     new webpack.EnvironmentPlugin(["MAPBOX_TOKEN"]),
     new CleanWebpackPlugin(),
@@ -30,25 +25,16 @@ const config = {
       template: path.resolve(__dirname, "src", "index.html")
     })
   ],
-
   module: {
     rules: [
       {
-        test: /\.css$/,
-        use: ["style-loader", "css-loader"]
-      },
-      {
-        test: /\.js$/,
+        test: /\.(js|jsx)$/,
         exclude: /[\\/]node_modules[\\/]/,
-        use: [
-          {
-            loader: "babel-loader",
-            options: BABEL_CONFIG
-          }
-        ]
+        use: {
+          loader: "babel-loader",
+          options: BABEL_CONFIG
+        }
       }
     ]
   }
 };
-
-module.exports = config;

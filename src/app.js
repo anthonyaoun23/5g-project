@@ -14,6 +14,8 @@ import CountryInfo from "./country-info";
 
 import COUNTRIES from "./countries.json";
 
+import "./app.css";
+
 const TOKEN = process.env.MAPBOX_TOKEN;
 
 const fullscreenControlStyle = {
@@ -81,6 +83,7 @@ export default class App extends Component {
 
   render() {
     const { viewport } = this.state;
+    console.log("made it!");
 
     return (
       <MapGL
@@ -111,6 +114,4 @@ export default class App extends Component {
   }
 }
 
-export function renderToDom(container) {
-  render(<App />, container);
-}
+render(<App />, document.getElementById("map"));
